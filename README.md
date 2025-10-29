@@ -1,2 +1,2 @@
 # Library-Management-System
-A Student Management System (SMS) is a simple yet powerful application designed to manage student information efficiently. It allows administrators, teachers, and staff to add, update, view, and delete student records — all in one place.
+The Library Management System (LMS) is a software application designed to handle the daily operations of a library efficiently. It helps librarians and users manage books, track borrowed items, maintain records, and ensure smooth operation of library activities.
